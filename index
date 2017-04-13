@@ -7,6 +7,15 @@
   <title>Heya Stranger!</title>
 </head>
 <body>
+  <!--Need to add logo image-->
+  <!--Navigation-->
+  <<ul>
+    <li>About</li>
+    <li>Work</li>
+    <li>Contact</li>
+  </ul>
+
   <h1>Welcome to DK's Site</h1>
+
 </body>
 </html>
