@@ -1,0 +1,26 @@
+.navigation {
+  height: auto;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+}
+
+.content-box {
+  height: 500px;
+  margin: 0 auto;
+  position: relative;
+  top: 220px;
+  width: 80%;
+}
+
+.content-header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  top: -50%;
+  height:320px;
+}
