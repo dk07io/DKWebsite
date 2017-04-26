@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(13,7,30);
+}
+
 .navigation {
   height: auto;
   text-align: center;
@@ -23,4 +27,11 @@
   position: relative;
   top: -50%;
   height:320px;
+}
+
+.navigation  {
+  font-family: Source Code Pro;
+  font-weight: 600;
+  font-style: normal;
+  color: #3fabf5;
 }
