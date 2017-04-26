@@ -3,26 +3,15 @@ body {
 }
 
 .jumbotron {
-  background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2042.jpg?3");
+  background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
   height: 800px;
   width: 100%;
   background-position: bottom center;
 }
 
-.navigation {
-  height: auto;
-  text-align: center;
-  position: fixed;
-  left: 0;
-  top: 0;
-  z-index: 999;
-  width: 100%;
-}
-
-
 .navigation  {
-  font-family: Source Code Pro;
-  font-weight: 600;
+  font-family: monospace;
+  font-weight: bold;
   font-style: normal;
   color: #3fabf5;
 }
