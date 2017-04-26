@@ -15,6 +15,9 @@ body {
   font-weight: bold;
   font-style: normal;
   color: #3fabf5;
+}
+
+.navigation li {
   border: 1px solid #ab61fc;
   border-radius:2px;
 }
