@@ -15,4 +15,6 @@ body {
   font-weight: bold;
   font-style: normal;
   color: #3fabf5;
+  border: 1px solid #ab61fc;
+  border-radius:2px;
 }
