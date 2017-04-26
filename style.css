@@ -18,13 +18,6 @@ body {
   width: 100%;
 }
 
-.content-box {
-  height: 500px;
-  margin: 0 auto;
-  position: relative;
-  top: 220px;
-  width: 80%;
-}
 
 .navigation  {
   font-family: Source Code Pro;
