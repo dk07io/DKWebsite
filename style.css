@@ -3,11 +3,17 @@ body {
 }
 
 .jumbotron {
-  /*background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");*/
-  height: 800px;
+  background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
+  height: 600px;
   width: 100%;
-  background-position: bottom center;
+  background-position: center;
 }
+
+.jumbotron h1 {
+  position: center;
+  font-family: monospace;
+  font-size: 4em;
+{
 
 .navigation  {
   height: auto;
@@ -22,7 +28,7 @@ body {
   color: #3fabf5;
   display: inline-block;
   font-family: monospace;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: normal;
   font-style: normal;
   border: 1px solid #ab61fc;
