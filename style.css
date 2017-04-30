@@ -10,14 +10,22 @@ body {
 }
 
 .navigation  {
-  font-family: monospace;
-  font-size: 2em;
-  font-weight: bold;
-  font-style: normal;
-  color: #3fabf5;
+  height: auto;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  top:0;
+  width: 100%;
 }
 
 .navigation li {
+  color: #3fabf5;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
   border: 1px solid #ab61fc;
   border-radius:2px;
+  margin: 20px;
 }
