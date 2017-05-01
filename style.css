@@ -1,9 +1,10 @@
 body {
+  background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
   background-color: rgb(13,7,30);
 }
 
 .jumbotron {
-  background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
+  /*background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");*/
   height: 600px;
   width: 100%;
   background-position: center;
@@ -15,7 +16,7 @@ body {
   font-size: 4em;
 {
 
-.navigation  {
+.navigation {
   height: auto;
   text-align: center;
   position: fixed;
