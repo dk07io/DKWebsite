@@ -16,12 +16,7 @@ body {
 }
 
 .navigation {
-  height: auto;
   text-align: center;
-  position: fixed;
-  left: 0;
-  top:0;
-  width: 100%;
 }
 
 .navigation li {
