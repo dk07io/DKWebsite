@@ -28,5 +28,6 @@ body {
   font-style: normal;
   border: 1px solid #ab61fc;
   border-radius:2px;
+  padding: 20px;
   margin: 20px;
 }
