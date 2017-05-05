@@ -2,6 +2,11 @@ body {
   background-color: rgb(13,7,30);
 }
 
+.header {
+  background-color: #1e1e1e;
+}
+
+
 .jumbotron {
   background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
   background-size: cover;
