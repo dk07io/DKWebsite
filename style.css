@@ -35,3 +35,14 @@ body {
   top: 180px;
   text-align: centre;
 }
+
+.btn-main {
+  background-color: #3fabf5;
+  color: #fff;
+  font-family: 'monospace', sans-serif;
+  font-weight: 600;
+  font-size: 70px;
+  margin-top:0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
