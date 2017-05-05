@@ -45,10 +45,11 @@ body {
 .btn-main {
   background-color: #3fabf5;
   color: #fff;
-  font-family: 'monospace', sans-serif;
+  font-family: monospace, sans-serif;
   font-weight: 600;
-  font-size: 70px;
-  margin-top:0;
-  margin-bottom: 80px;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none;
   text-transform: uppercase;
 }
