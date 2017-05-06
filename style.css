@@ -29,9 +29,9 @@ body {
   font-style: normal;
   border: 1px solid #ab61fc;
   border-radius:2px;
-  padding: 20px;
+  padding: 10px;
   margin: 20px;
-  z-index: 1000;
+  z-index: 999;
 }
 
 .main h1 {
