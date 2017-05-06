@@ -20,6 +20,7 @@ body {
   text-align: center;
   top: 0;
   position: fixed;
+  width: 100%;
 }
 
 .navigation li {
