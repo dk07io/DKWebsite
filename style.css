@@ -13,12 +13,6 @@ body {
   height: 800px;
 }
 
-.jumbotron h1 {
-  position: center;
-  font-family: monospace;
-  font-size: 4em;
-}
-
 .navigation {
   text-align: center;
 }
@@ -52,4 +46,5 @@ body {
   padding: 16px 40px;
   text-decoration: none;
   text-transform: uppercase;
+  position: center;
 }
