@@ -16,6 +16,7 @@ body {
 
 .navigation {
   text-align: center;
+  top: 0;
 }
 
 .navigation li {
