@@ -32,7 +32,8 @@ body {
   font-style: normal;
   border: 1px solid #ab61fc;
   border-radius:2px;
-  padding: 10px;
+  background-color: rgba(171, 97, 252, 0.5);
+  padding: 10px 15px;
   margin: 20px;
   z-index: 999;
 }
