@@ -11,6 +11,7 @@ body {
   background-image: url("https://pacdn.500px.org/1528897/14329cd495d2a55ed949a0b9bd0481527e915c20/cover_2048.jpg?3");
   background-size: cover;
   height: 800px;
+  top: -55px;
 }
 
 .navigation {
@@ -28,12 +29,14 @@ body {
   border-radius:2px;
   padding: 20px;
   margin: 20px;
+  z-index: 1000;
 }
 
 .main h1 {
   position: relative;
   top: 180px;
   text-align: center;
+  height: 200px;
 }
 
 .btn-main {
@@ -46,5 +49,4 @@ body {
   padding: 16px 40px;
   text-decoration: none;
   text-transform: uppercase;
-  position: center;
 }
